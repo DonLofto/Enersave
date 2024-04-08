@@ -10,4 +10,4 @@ function ComparePlans() {
     );
 }
 export default ComparePlans;
-// Path: src/components/Plan.js
+// Path: src/components/Plan.jsx

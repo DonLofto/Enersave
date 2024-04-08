@@ -10,4 +10,4 @@ function Home() {
     );
 }
 export default Home;
-// Path: src/components/Home.js
+// Path: src/components/Home.jsx
